@@ -85,3 +85,6 @@ docker run -d --privileged --device=/dev/video0 luntian-ultralytics-1
 
 
 
+docker exec -it wildeye-ultralytics-1 /bin/bash
+
+
